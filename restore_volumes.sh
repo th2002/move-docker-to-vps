@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Cấp quyền cho file script: chmod +x restore_docker_volumes.sh
+# Run file: ./restore_docker_volumes.sh
+
 # Giải nén file tar gốc chưa volume list
 # tar xzf docker-volumes-backup.tar.gz -C /tmp
 
